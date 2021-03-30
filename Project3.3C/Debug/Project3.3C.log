@@ -1,0 +1,14 @@
+﻿  Money.cpp
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(241,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(242,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(243,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(244,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(245,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(246,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(247,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(248,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Money.cpp(249,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Project3.3C\Source.cpp(12,12): warning C4101: N: неиспользованная локальная переменная
+  Создание кода...
+  Project3.3C.vcxproj -> C:\Users\Dyzak\Desktop\студент 2\лабораторна 3\Project3.3C\Debug\Project3.3C.exe
